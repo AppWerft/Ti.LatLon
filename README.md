@@ -10,8 +10,8 @@ Calculation of distance and bearing between two points:
 var LL = require('de.appwerft.latlon');
 var Origin = new LL.LatLon(53.5523,10.1);
 var Destination = new LL.LatLon(54.7,10.4);
-console.log(Distance is: ' + Origin.distanceTo(Destination));
-console.log(Distance ist: ' + Origin.bearingTo(Destination));
+console.log(Distance is ' + Origin.distanceTo(Destination));
+console.log(Bearing is ' + Origin.bearingTo(Destination));
 
 ```
 
