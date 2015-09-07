@@ -1,0 +1,33 @@
+{
+  "name": "Ti.LatLon",
+  "version": "0.0.1",
+  "description": "Latitude/longitude spherical geodesy formulae & scripts",
+  "main": "de.appwerft.latlon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AppWerft/Ti.GeoTools.git"
+  },
+  "titaniumManifest": {
+   "name": "Ti.LatLon",
+   "moduleid" : "de.appwerft.latlon",
+   "guid": "30dc3aaa-cd6f-de94-f361-31c199531c92"
+  },
+  "engines": {
+    "titaniumsdk": ">= 3.3.0"
+  },
+   "nativeDependencies": {
+    
+  },
+  "keywords": [
+    "GIS", "Appcelerator","AppWerft"
+  ],
+  "author": "Rainer Schleevoigt",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/AppWerft/Ti.LatLon/issues"
+  },
+  "homepage": "https://github.com/AppWerft/Ti.LatLon"
+}
